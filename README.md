@@ -2,6 +2,12 @@
 
 > Выполнили проект Аннануров Даниил, Жуйков Алексей, Угарин Никита.
 
+EER-диаграмма проекта
+
+![project](https://github.com/Daniyarsick/Project_Database_sem4/assets/124454981/fdc5de29-ff03-4456-a4e2-3ec0c853e10f)
+
+
+
 SQL запрос на базу данных
 ```
 -- MySQL Workbench Forward Engineering
